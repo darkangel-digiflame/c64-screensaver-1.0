@@ -1,8 +1,10 @@
 ; name=screensaver.asm
 ; 6502 / C64 - Turbo Assembler compatible
 ; Multi-routine raster screensaver for real C64 hardware
-; Signature printed on bottom line: darkangel/digiflame
-; Production date printed: 2026-07-12
+; Coding & idea : darkangel/digiflame
+; Production date: 2026-07-12
+; © 2026 Digiflame inc  http://www.digiflame.net
+; darkangel@digiflame.net
 ;
 ; Assemble at $1000, then SYS 4096 to run (or build PRG if desired)
 
