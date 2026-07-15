@@ -1,4 +1,4 @@
-; name=screensaver.asm
+; name=screensaver.seq
 ; 6502 / C64 - Turbo Assembler compatible
 ; Multi-routine raster screensaver for real C64 hardware
 ; Coding & idea : darkangel/digiflame
